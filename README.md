@@ -50,7 +50,7 @@ See [`examples/dashboard`](examples/dashboard) for the exact diff.
 - Qt 6.8 or newer
 - Uses only LGPL-licensed Qt modules: Qt Quick, Qt Quick Shapes, Qt Quick Templates.
   No Qt Charts, Qt Graphs or other GPL/commercial-only add-ons.
-- Pure QML: works from C++ and from Python (PySide6 / PyQt6).
+- Pure QML, no C++ code inside the library.
 
 ## Usage
 
